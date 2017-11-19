@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1510845041 source:c:\users\user\desktop\biblio\m2 generation param.h\generationcode.c
+	"generationCode.h"
+
+1510840087 c:\users\user\desktop\biblio\m2 generation param.h\generationcode.h
+	<stdio.h>
+
+1510840087 source:c:\users\user\desktop\biblio\m2 generation param.h\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menu.h"
+	"generationCode.h"
+
+1510840087 c:\users\user\desktop\biblio\m2 generation param.h\menu.h
+	<stdio.h>
+
+1510840087 source:c:\users\user\desktop\biblio\m2 generation param.h\menu.c
+	"menu.h"
+
+1510840087 source:c:\users\user\desktop\biblio\m2 generation param.h\generationcode.h
+	<stdio.h>
+
+1510840087 source:c:\users\user\desktop\biblio\m2 generation param.h\menu.h
+	<stdio.h>
+
